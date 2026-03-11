@@ -1,6 +1,6 @@
 # Wells Fargo Banking Performance Dashboard
 
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](Wells Fargo Dashboard Preview.png)
 
 ## Project Overview
 
